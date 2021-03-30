@@ -28,3 +28,6 @@ campatability > Text alignment wasn't preperly
 campatability > Need to collapse the menu, it displayed blank page
 
 my first commit in github
+
+new chatting added
+new changeing added
