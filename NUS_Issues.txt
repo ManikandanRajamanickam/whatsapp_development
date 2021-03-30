@@ -26,3 +26,5 @@ Devices > Verify Lithography > Need to justified the content
 MRL user > Verify registration form > Screen wasn't properly aligne
 campatability > Text alignment wasn't preperly
 campatability > Need to collapse the menu, it displayed blank page
+
+my first commit in github
